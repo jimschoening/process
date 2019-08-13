@@ -78,6 +78,7 @@ To discuss Artificial Intelligence for Solid
 
 ### Panelists
 * [Tom](https://github.com/sideshowtom) <[sideshowtom@yahoo.com](mailto:sideshowtom@yahoo.com)> (@sideshowtom) 
+- [James Schoening](https://github.com/jimschoening) <[james.r.schoening.civ@mail.mil](mailto:james.r.schoening.civ@mail.mil)> (@jimschoening)
 
 ## Authentication Panel
 Discussion and specs relating to Authentication and Auth Delegation protocols, including:
